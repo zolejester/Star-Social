@@ -1,0 +1,3 @@
+install in Env
+pip install bootstrap4
+pip install misaka
